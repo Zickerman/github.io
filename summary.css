@@ -1,0 +1,60 @@
+@font-face{
+
+font-family: 'beermoney';
+
+src: url('fonts/beermoney.ttf');
+
+font-weight: normal;
+
+font-style: normal;
+
+}
+
+h1{
+font-family: "beermoney";
+/*color:lightgreen;
+font-family:Lobster, cursive; 
+*/
+Font-size:40px;
+margin-bottom:0;
+}
+img{
+	width:10%;
+	border:3px solid #4169E1;
+	border-radius: 20%;
+	text-align:center-left;
+	position:center;
+}
+h2 {
+	font-weight:400;
+font-family: 'beermoney';
+	/*font-family:Lobster, cursive; Font-size:30px;шрифт лобстер*/
+font-size:32px;
+border-bottom-style:2px solid gray;
+  margin-bottom:8;
+}
+h3 {
+	font-family: 'beermoney';
+	font-weight:400;
+font-size:20px;
+margin-bottom:0;
+}
+li{
+	font-size:20px;	
+	font-family: 'beermoney';
+}
+a{
+	font-family: 'beermoney';
+	
+}
+#header{margin-bottom: 32px;
+text-align: center;
+}
+#footer{margin-top:64px;
+text-align:center;  
+}
+#p {
+  margin: 12px;
+  color: red;  
+}
+ 
